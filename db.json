@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "seller": [
+    {
+      "firstname": "darshan",
+      "lastname": "dholakiya",
+      "email": "darshan@gmail.com",
+      "password": "kano",
+      "id": 1
+    },
+    {
+      "firstname": "darshan",
+      "lastname": "dholakiya",
+      "email": "darshan@gmail.com",
+      "password": "kano",
+      "id": 2
+    },
+    {
+      "firstname": "darshan",
+      "lastname": "patel",
+      "email": "dd@gmail.com",
+      "password": "kano",
+      "id": 3
+    },
+    {
+      "firstname": "da",
+      "lastname": "ew",
+      "email": "ef@gmail.com",
+      "password": "kano",
+      "id": 4
+    },
+    {
+      "firstname": "da",
+      "lastname": "ds",
+      "email": "dssds@gmail.com",
+      "password": "kano",
+      "id": 5
+    },
+    {
+      "firstname": "dasd",
+      "lastname": "fasf",
+      "email": "fdf@gmail.com",
+      "password": "kano",
+      "id": 6
+    },
+    {
+      "firstname": "sini",
+      "lastname": "kfkdsa",
+      "email": "keval@gmail.com",
+      "password": "kano",
+      "id": 7
+    },
+    {
+      "firstname": "da",
+      "lastname": "sini",
+      "email": "mayal@gmail.com",
+      "password": "kano",
+      "id": 8
+    },
+    {
+      "firstname": "da",
+      "lastname": "rerwe",
+      "email": "dssds@gmail.com",
+      "password": "kano",
+      "id": 9
+    }
+  ]
+}

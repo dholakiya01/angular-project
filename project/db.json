@@ -1,0 +1,53 @@
+{
+  "seller": [
+    {
+      "firstname": "darshan",
+      "lastname": "dholakiya",
+      "email": "darshan@gmail.com",
+      "password": "kano",
+      "id": 1
+    },
+    {
+      "firstname": "darshan",
+      "lastname": "dholakiya",
+      "email": "darshan@gmail.com",
+      "password": "kano",
+      "id": 2
+    },
+    {
+      "firstname": "darshan",
+      "lastname": "patel",
+      "email": "dd@gmail.com",
+      "password": "kano",
+      "id": 3
+    },
+    {
+      "firstname": "daya",
+      "lastname": "patel",
+      "email": "daya@gmail.com",
+      "password": "kano",
+      "id": 4
+    },
+    {
+      "firstname": "mayal",
+      "lastname": "savaj",
+      "email": "mayal@gmail.com",
+      "password": "kano",
+      "id": 5
+    },
+    {
+      "firstname": "raj",
+      "lastname": "raj",
+      "email": "raj@gmail.com",
+      "password": "kano",
+      "id": 6
+    },
+    {
+      "firstname": "jay",
+      "lastname": "jay",
+      "email": "jay@gamil.com",
+      "password": "kano",
+      "id": 7
+    }
+  ]
+}
